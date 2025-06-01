@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Pranav+Kheny!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+;+I'm+Pranav+Kheny!" />
   <br>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=50&color=A855F7&duration=4000&lines=Here’s+my+Portfolio!" />
 </h1>
@@ -22,16 +22,16 @@
   <img src="https://skillicons.dev/icons?i=java,python,cpp,html,spring,git,github,docker,aws,mysql,discord,eclipse,gherkin,vscode" />
 </p>
 
-### ✅ Languages:
+###  Languages:
 - Java, Python, SQL, C++, HTML
 
-### ✅ Tools & Frameworks:
+###  Tools & Frameworks:
 - Pandas, Openpyxl, Tkinter Git, GitHub, VS Code, Docker, AWS (Cloud basics)
 
-### ✅ Concepts:
+###  Concepts:
 - REST APIs, Data Structures & Algorithms, Agile Scrum, Gherkin
 
-## 📬 Connect With Me
+##  Connect With Me
 
 <div align="center">
   <a href="mailto:pranavkheny05@gmail.com">
