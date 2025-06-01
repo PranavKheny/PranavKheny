@@ -16,6 +16,14 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,spring,postgres,mysql,git,linux,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=java,python,sql,cpp,html,spring,git,github,vscode,intellij,docker,aws" />
 </p>
 
+### ✅ Languages:
+- Java, Python, SQL, C++, HTML
+
+### ✅ Tools & Frameworks:
+- Spring Boot, Git, GitHub, VS Code, IntelliJ, Docker, AWS (Cloud basics)
+
+### ✅ Concepts:
+- REST APIs, Data Structures & Algorithms, Agile Scrum
