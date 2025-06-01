@@ -5,7 +5,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+;+I'm+Pranav+Kheny!" />
 </h1>
-<h1>
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=500&height=50&color=A855F7&duration=4000&lines=Here’s+my+Portfolio!" />
 </h1>
 
