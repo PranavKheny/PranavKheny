@@ -9,7 +9,7 @@
 </h1>
 
 
-###  Computer Science & Engineering Graduate from OSU | Aspiring Backend Developer specializing in Java & Python
+###  Computer Science & Engineering Graduate from OSU | Aspiring Backend Developer specializing in Java
 
 ##  Languages and Tools
 
