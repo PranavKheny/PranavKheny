@@ -13,12 +13,9 @@
   <img src="https://profile-counter.glitch.me/PranavKheny/count.svg" alt="Visitor's Count" />
 </div>
 
-## 🛠️ Technical Skills
+## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,r,html,sql,ruby" />
-  <img src="https://skillicons.dev/icons?i=pandas,excel,powerbi,git,github,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=java,python,spring,postgres,mysql,git,linux,docker,aws" />
 </p>
 
-✅ Languages: Python, Java, C++, R, MATLAB, Ruby, SQL, HTML  
-✅ Developer Tools & Technologies: Pandas, Openpyxl, Excel, Power BI, Data Mining, Data Cleansing, Data Visualization, Git, GitHub, Visual Studio, PyCharm, VS Code, Tkinter, Agile Scrum
