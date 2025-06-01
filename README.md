@@ -39,3 +39,22 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
+
+##  Projects
+
+###  [Truancy Tracking System](https://github.com/PranavKheny/truancy-tracking) | Python, Tkinter, Pandas, Openpyxl
+- Developed a Tkinter GUI application to automate truancy tracking, reducing admin work by 6 hours per week.
+- Automated report imports, weekly updates, and summaries; collaborated in a 5-person team using Git.
+
+###  [Student Graders Management App](https://github.com/PranavKheny/student-graders-app) | Ruby on Rails, API Integration
+- Built a Ruby on Rails app to manage 60+ CSE graders; integrated OSU catalog API for course data.
+- Implemented role-based authentication for students, instructors, and admins.
+
+###  [Tic Tac Toe Game](https://github.com/PranavKheny/tic-tac-toe-java) | Java
+- Designed a Java-based Tic Tac Toe game with a graphical UI to play against the computer.
+- Demonstrates Java programming skills and problem-solving abilities.
+
+###  [Gym Database Project](https://github.com/PranavKheny/gym-database) | SQL
+- Created a SQL database to manage gym customer and trainer data, including BMI, weight, and plans.
+- Focused on data modeling, relational integrity, and query optimization.
+
