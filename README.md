@@ -24,7 +24,7 @@
 - Pandas, Openpyxl, Tkinter Git, GitHub, VS Code, Docker, AWS (Cloud basics)
 
 ###  Concepts:
-- REST APIs, Data Structures & Algorithms, Agile Scrum, Gherkin
+- Data Structures & Algorithms, Agile Scrum, Gherkin, REST APIs, Software Requirements, Analysis, Software Engineering Techniques,
 
 ##  Connect With Me
 
