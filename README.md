@@ -27,3 +27,17 @@
 
 ### ✅ Concepts:
 - REST APIs, Data Structures & Algorithms, Agile Scrum, Gherkin
+
+## 📬 Connect With Me
+
+<div align="center">
+  <a href="mailto:pranavkheny05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/pranav-kheny-4680242b2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/PranavKheny" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
