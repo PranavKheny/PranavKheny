@@ -9,9 +9,9 @@
 </h1>
 
 
-### 🎓 Computer Science & Engineering Graduate from OSU | Aspiring Backend Developer specializing in Java & Python
+###  Computer Science & Engineering Graduate from OSU | Aspiring Backend Developer specializing in Java & Python
 
-## 🛠️ Languages and Tools
+##  Languages and Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,html,spring,git,github,docker,aws,mysql,discord,eclipse,gherkin,vscode" />
