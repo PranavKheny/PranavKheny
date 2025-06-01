@@ -16,7 +16,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,sql,cpp,html,spring,git,github,vscode,intellij,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,spring,git,github,intellij,docker,aws,mysql,discord,eclipse,gherkin,vscode" />
 </p>
 
 ### ✅ Languages:
