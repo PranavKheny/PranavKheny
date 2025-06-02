@@ -42,7 +42,7 @@
 
 ##  Projects
 
-###  [Truancy Tracking System](https://github.com/PranavKheny/truancy-tracking) | Python, Tkinter, Pandas, Openpyxl
+###  [Truancy Tracking System](https://github.com/PranavKheny/truancy-tracking-system) | Python, Tkinter, Pandas, Openpyxl
 - Developed a Tkinter GUI application to automate truancy tracking, reducing admin work by 6 hours per week.
 - Automated report imports, weekly updates, and summaries; collaborated in a 5-person team using Git.
 
