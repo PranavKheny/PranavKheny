@@ -46,7 +46,7 @@
 - Developed a Tkinter GUI application to automate truancy tracking, reducing admin work by 6 hours per week.
 - Automated report imports, weekly updates, and summaries; collaborated in a 5-person team using Git.
 
-###  [Student Graders Management App](https://github.com/PranavKheny/student-graders-app) | Ruby on Rails, API Integration
+###  [Student Graders Management App](https://github.com/PranavKheny/course-grading-system) | Ruby on Rails, API Integration
 - Built a Ruby on Rails app to manage 60+ CSE graders; integrated OSU catalog API for course data.
 - Implemented role-based authentication for students, instructors, and admins.
 
